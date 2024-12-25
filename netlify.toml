@@ -1,5 +1,5 @@
 [build]
-publish = "public"
+publish = "docs"
 command = "env TZ='Asia/Shanghai' hugo --gc --minify --enableGitInfo"
 
 [context.production.environment]

@@ -7,6 +7,7 @@ baseURL: https://shrnan.netlify.app/
 #title: PaperMod
 copyright: "© [shrnan](https://github.com/eliquen)"
 paginate.pageSize: 5
+publishDir: docs
 
 enableInlineShortcodes: true
 enableRobotsTXT: true
