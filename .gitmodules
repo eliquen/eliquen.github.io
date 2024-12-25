@@ -3,4 +3,4 @@
 	url = https://github.com/adityatelange/hugo-PaperMod.git
 [submodule "content"]
 	path = content
-	url = git@github.com:eliquen/muse.git
+	url = https://github.com/eliquen/muse.git
